@@ -1,3 +1,0 @@
-﻿  game.cpp
-C:\Users\daria\source\repos\Tag_games\Tag_games\game.cpp(244,17): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
-  Tag_games.vcxproj -> C:\Users\daria\source\repos\Tag_games\x64\Debug\Tag_games.exe
